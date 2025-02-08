@@ -1,0 +1,32 @@
+ /* font-family: "Poppins", serif; 
+  font-family: "Inter Tight", serif;
+    font-family: "Montserrat", serif;
+    font-family: "Asap", serif;
+     font-family: "Roboto", serif;*/
+
+body{
+    font-family: "Poppins", sans-serif; 
+    color: #22343d;
+    background-color: #fff;;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 0.93;
+    color: #173a56;
+}
+
+.header-nav-link{
+font-size: 16px;
+line-height: 1.75;
+color: #22343d;
+}
